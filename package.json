@@ -1,0 +1,11 @@
+{
+    "name": "NgTableAngularJS",
+    "version": "0.0.1",
+    "description": "NgTableAngularJS",
+    "dependencies": {
+      "angular": "^1.4.4",
+      "bootstrap": "^3.3.5",
+      "ng-table": "^0.5.4",
+      "express":"latest"
+    }
+  }
